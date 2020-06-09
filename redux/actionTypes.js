@@ -1,0 +1,3 @@
+export const SET_LOGIN_STATE = "SET_LOGIN_STATE"
+export const SET_DEFAULT_VALUE = "SET_DEFAULT_VALUE"
+

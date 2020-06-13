@@ -22,8 +22,9 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
-    },
+        "bundleIdentifier": "com.dhanasekar.dachspasalon",
+        "buildNumber": "1.0.0"
+      },
     "android": {
       "package": "com.dhanasekar.dachspasalon"
     }
